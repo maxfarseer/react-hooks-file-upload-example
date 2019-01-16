@@ -1,8 +1,7 @@
-Starter для проектов на react (в основе create-react-app)
+React-hooks file upload example
+====
 
-## Добавлено:
-
-+ pre-commit hook (проверка eslint, форматирование prettier)
+Код для вебинара по использованию реакт-хуков.
 
 ---
 
